@@ -23,7 +23,7 @@
     "@angular/platform-browser": "^14.0.6",
     "@angular/platform-browser-dynamic": "^14.0.6",
     "@angular/router": "^14.0.6",
-    "bootstrap": "^4.6.1",
+    "bootstrap": "^5.0.0",
     "jexl": "^2.2.2",
     "ngx-schema-form": "file:projects/schema-form",
     "rxjs": "^7.4.0",
@@ -32,7 +32,7 @@
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^14.0.6",
+    "@angular-devkit/build-angular": "^19.1.6",
     "@angular/cli": "^14.0.6",
     "@angular/compiler-cli": "^14.0.6",
     "@angular/language-service": "^14.0.6",
